@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Svatba"
+	backgroundColor="rgba(77,45,88,1)"
+	textColor="rgba(232,216,216,1)"
+	thumbFrameColor="rgba(232,216,216,.5)"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	showExpandButton="true"
+	importCaption="NONE"
+	importTitle="NONE"
+	maxImageWidth="1920"
+	maxImageHeight="1080"
+	imageQuality="97"
+
+>
+  <image imageURL="images/oznameni.jpg"
+	thumbURL="thumbs/oznameni.jpg"
+	linkURL="images/oznameni.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/oznameni.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Svatební oznámení]]></caption>
+  </image>
+  <image imageURL="images/20131028_130252.jpg"
+	thumbURL="thumbs/20131028_130252.jpg"
+	linkURL="images/20131028_130252.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/20131028_130252.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Neusiedlersee]]></caption>
+  </image>
+  <image imageURL="images/20131028_172711.jpg"
+	thumbURL="thumbs/20131028_172711.jpg"
+	linkURL="images/20131028_172711.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/20131028_172711.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Prater]]></caption>
+  </image>
+  <image imageURL="images/20131028_190149.jpg"
+	thumbURL="thumbs/20131028_190149.jpg"
+	linkURL="images/20131028_190149.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/20131028_190149.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Donauturm]]></caption>
+  </image>
+  <image imageURL="images/DSC_0204.jpg"
+	thumbURL="thumbs/DSC_0204.jpg"
+	linkURL="images/DSC_0204.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/DSC_0204.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[WT-9 Dynamic (OK-LUU 03)]]></caption>
+  </image>
+  <image imageURL="images/DSC_0181.jpg"
+	thumbURL="thumbs/DSC_0181.jpg"
+	linkURL="images/DSC_0181.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/DSC_0181.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Staroměstská radnice Praha]]></caption>
+  </image>
+  <image imageURL="images/DSC_0192.jpg"
+	thumbURL="thumbs/DSC_0192.jpg"
+	linkURL="images/DSC_0192.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/DSC_0192.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Letohrádek Hvězda]]></caption>
+  </image>
+  <image imageURL="images/IMGP0374.jpg"
+	thumbURL="thumbs/IMGP0374.jpg"
+	linkURL="images/IMGP0374.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0374.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Stuhleck]]></caption>
+  </image>
+  <image imageURL="images/IMGP0149.jpg"
+	thumbURL="thumbs/IMGP0149.jpg"
+	linkURL="images/IMGP0149.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0149.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Alexandrova rozhledna]]></caption>
+  </image>
+  <image imageURL="images/IMGP0630.jpg"
+	thumbURL="thumbs/IMGP0630.jpg"
+	linkURL="images/IMGP0630.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0630.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Spišský hrad]]></caption>
+  </image>
+  <image imageURL="images/IMGP0563.jpg"
+	thumbURL="thumbs/IMGP0563.jpg"
+	linkURL="images/IMGP0563.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0563.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Kobylí]]></caption>
+  </image>
+  <image imageURL="images/IMGP0654.jpg"
+	thumbURL="thumbs/IMGP0654.jpg"
+	linkURL="images/IMGP0654.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0654.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Antropos Brno]]></caption>
+  </image>
+  <image imageURL="images/zasnuby.jpg"
+	thumbURL="thumbs/zasnuby.jpg"
+	linkURL="images/zasnuby.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/zasnuby.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Naše zasnoubení]]></caption>
+  </image>
+  <image imageURL="images/IMGP0712.jpg"
+	thumbURL="thumbs/IMGP0712.jpg"
+	linkURL="images/IMGP0712.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0712.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Permonium]]></caption>
+  </image>
+  <image imageURL="images/IMGP0725.jpg"
+	thumbURL="thumbs/IMGP0725.jpg"
+	linkURL="images/IMGP0725.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0725.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Oslavany a okolí]]></caption>
+  </image>
+  <image imageURL="images/IMGP0247.jpg"
+	thumbURL="thumbs/IMGP0247.jpg"
+	linkURL="images/IMGP0247.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/IMGP0247.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Panta Rhei Košice]]></caption>
+  </image>
+  <image imageURL="images/20140808_130053.jpg"
+	thumbURL="thumbs/20140808_130053.jpg"
+	linkURL="images/20140808_130053.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/20140808_130053.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Ljubljana]]></caption>
+  </image>
+  <image imageURL="images/20140809_222852.jpg"
+	thumbURL="thumbs/20140809_222852.jpg"
+	linkURL="images/20140809_222852.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/20140809_222852.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Zagreb]]></caption>
+  </image>
+  <image imageURL="images/IMGP1994_vin.jpg"
+	thumbURL="thumbs/IMGP1994_vin.jpg"
+	linkURL="images/IMGP1994_vin.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/photo/2014/08 Chorvatsko/IMGP1994_vin.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Trsteno]]></caption>
+  </image>
+  <image imageURL="images/IMGP2033_vin.jpg"
+	thumbURL="thumbs/IMGP2033_vin.jpg"
+	linkURL="images/IMGP2033_vin.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/photo/2014/08 Chorvatsko/IMGP2033_vin.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Dubrovnik]]></caption>
+  </image>
+  <image imageURL="images/IMGP2394_vin.jpg"
+	thumbURL="thumbs/IMGP2394_vin.jpg"
+	linkURL="images/IMGP2394_vin.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/photo/2014/08 Chorvatsko/IMGP2394_vin.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Klis]]></caption>
+  </image>
+  <image imageURL="images/IMGP2425_vin.jpg"
+	thumbURL="thumbs/IMGP2425_vin.jpg"
+	linkURL="images/IMGP2425_vin.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/photo/2014/08 Chorvatsko/IMGP2425_vin.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Split]]></caption>
+  </image>
+  <image imageURL="images/14 - 1.jpg"
+	thumbURL="thumbs/14 - 1.jpg"
+	linkURL="images/14 - 1.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/mvecera/Stažené/juicebox_lite_1.4.2/ano/14 - 1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Biokovo]]></caption>
+  </image>
+</juiceboxgallery>
