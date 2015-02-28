@@ -41,6 +41,17 @@ q {
 	font-size: 1.5em;
 }
 
+div.capsule {
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+div.capsule img {
+	padding-bottom: 0px ! important;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 .center {
 	display: inline-block;
 	text-align: center;
@@ -64,6 +75,10 @@ img.center {
 	padding: 0 ! important;
 }
 
+ul {
+	text-align: justify;
+}
+
 /* Navigation */
 
 .menu, header {
@@ -73,7 +88,7 @@ img.center {
 	height:auto; 
 	color: #E8D8D8;
 	background-color: #4D2D58;
-	z-index:100;
+	z-index:10000;
 }
 #logo {
 	text-align: left;
@@ -156,7 +171,7 @@ footer {
 	position: relative;
 	color: #E8D8D8;
 	background-color: #4D2D58;
-	z-index:100;
+	z-index:10000;
 	padding: 30px 0;
 }
 
@@ -165,7 +180,7 @@ footer {
 
 #slide1{
 	background-color: #E8D8D8; /* #CDB3D6; */
-	background-image:url('../images/pink_back2.jpg');
+	background-image:url('../images/pink_back3.jpg');
 }
 #slide1 h1 {
 	font-size: 3.8em;
@@ -213,7 +228,7 @@ footer {
 /* Slide 3 */ 
 
 #slide3{
-	background-image:url('../images/pink_back.jpg');
+	background-image:url('../images/pink_back3.jpg');
 	background-color: #E8D8D8;
 }
 #slide3 h1 {
@@ -267,7 +282,7 @@ footer {
 /* Slide 5 */ 
 
 #slide5{
-	background-image:url('../images/pink_back.jpg');
+	background-image:url('../images/pink_back3.jpg');
 	background-color: #E8D8D8;
 	min-height: 500px;
 }
@@ -324,7 +339,7 @@ footer {
 	padding:0;
 }
 
-.slide, footer {
+.slide, header, footer {
 	background-attachment: fixed;
 	width:100%;
 	position: relative;
@@ -405,8 +420,8 @@ footer {
 	width:100%;
 	position: relative;
 	padding:150px 0;
+	z-index: 0;
 }
-
 
 #slide1 h1 {
 	line-height: 1em;
@@ -441,7 +456,3 @@ footer {
 
 
 }
-
-
-
-
