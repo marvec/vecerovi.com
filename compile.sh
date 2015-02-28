@@ -18,12 +18,12 @@ cssDir="$scriptDir/css"
 jsDir="$scriptDir/js"
 
 # concat the files and output the minified version
-cat "$cssDir/normalize.css" "$cssDir/grid.css" "$cssDir/style.css" "$cssDir/flipclock.css" | cleancss -o "$cssDir/style.min.css"
+cat "$cssDir/font-awesome.min.css" "$cssDir/fonts.css" "$cssDir/normalize.css" "$cssDir/grid.css" "$cssDir/style.css" "$cssDir/flipclock.css" | cleancss -o "$cssDir/style.min.css"
 
 echo "compiled >> css/style.min.css"
 
 # grab all the js files and concat them with uglifyjs
-uglifyjs "$jsDir/jquery.stellar.min.js" "$jsDir/waypoints.min.js" "$jsDir/jquery.easing.1.3.js" "$jsDir/scripts.js" "$jsDir/flipclock.js" -o "$jsDir/scripts.min.js"
+uglifyjs "$jsDir/jquery.min.js" "$jsDir/jquery.stellar.min.js" "$jsDir/waypoints.min.js" "$jsDir/jquery.easing.1.3.js" "$jsDir/scripts.js" "$jsDir/flipclock.js" -o "$jsDir/scripts.min.js"
 
 echo "compiled >> js/scripts.min.js"
 

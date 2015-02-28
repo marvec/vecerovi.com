@@ -1,6 +1,5 @@
 jQuery(document).ready(function ($) {
 
-
     $(window).stellar();
 
     var links = $('.navigation').find('li');
@@ -58,18 +57,18 @@ jQuery(document).ready(function ($) {
         backgroundColor: "rgba(77,45,88,1)"
     });
 
-    var player;
-    function onYouTubeIframeAPIReady() {
-        player = new YT.Player('ytplayer', {
-            events: {
-                'onReady': onPlayerReady
-            }
-        });
-    }
-
-    function onPlayerReady(event) {
-        event.target.setVolume(20);
-    }
-
 });
+
+var player;
+window.onYouTubeIframeAPIReady = function onYouTubeIframeAPIReady() {
+    player = new YT.Player('ytplayer', {
+        events: {
+            'onReady': onPlayerReady
+        }
+    });
+}
+
+function onPlayerReady(event) {
+    event.target.setVolume(20);
+}
 

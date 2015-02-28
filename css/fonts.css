@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../fonts/open-sans.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(../fonts/open-sans-sb.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/open-sans-b.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), local('Lobster-Regular'), url(../fonts/lobster.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Sacramento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sacramento'), local('Sacramento-Regular'), url(../fonts/sacramento.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Titillium Web'), local('TitilliumWeb-Regular'), url(../fonts/titillium-r.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Titillium WebBlack'), local('TitilliumWeb-Black'), url(../fonts/titillium-b.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Design System';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Design System'), local('DesignSystem'), local('Design System C 500R'), url(../fonts/design-system.otf) format('opentype');
+}
