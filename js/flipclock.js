@@ -2402,7 +2402,7 @@ var FlipClock;
             end.setUTCFullYear(2015);
             end.setUTCMonth(6);
             end.setUTCDate(18);
-            end.setUTCHours(14);
+            end.setUTCHours(12);
             end.setUTCMinutes(0);
             end.setUTCSeconds(0);
             return end;
